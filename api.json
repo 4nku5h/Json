@@ -38,15 +38,6 @@
           {"answerText":"Delhi","isCorrect":"false"},
           {"answerText":"Pakistan","isCorrect":"true"}
       ]
-  },
-  {
-      "questionText":"Select Pakistan from options?",
-      "questionNumber":"1",
-      "answerOptions":[
-          {"answerText":"Iraq","isCorrect":"false"},
-          {"answerText":"India","isCorrect":"false"},
-          {"answerText":"Delhi","isCorrect":"false"},
-          {"answerText":"Pakistan","isCorrect":"true"}
-      ]
   }
+
 ]
