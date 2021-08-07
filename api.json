@@ -1,36 +1,26 @@
 [{
-      "questionText":"Select Pakistan from options?",
+      "questionText":"Everything in React is a ______?",
       "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
+      "answerOptions":[{"answerText":"Module","isCorrect":"false"},{"answerText":"Component","isCorrect":"true"},{"answerText":"Package","isCorrect":"false"},{"answerText":"Class","isCorrect":"false"}]
  },
  {
-      "questionText":"Select Pakistan from options?",
+      "questionText":"In Which Directory React Components are saved?",
       "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
+      "answerOptions":[{"answerText":"Inside js/components/","isCorrect":"true"},{"answerText":"Inside vendor/components/","isCorrect":"false"},{"answerText":"Inside external/components/","isCorrect":"false"},{"answerText":"Inside vendor/","isCorrect":"false"}]
  },
  {
-      "questionText":"Select Pakistan from options?",
+      "questionText":"How many element does a react component return?",
       "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
+      "answerOptions":[{"answerText":"2 Elements","isCorrect":"false"},{"answerText":"1 Element","isCorrect":"false"},{"answerText":"Multiple Elements","isCorrect":"true"},{"answerText":"None of These","isCorrect":"false"}]
  },
  {
-      "questionText":"Select Pakistan from options?",
+      "questionText":"What is state in React?",
       "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
+      "answerOptions":[{"answerText":"A persistant storage.","isCorrect":"false"},{"answerText":"An internal data store (object) of a component.","isCorrect":"true"},{"answerText":"All of the above","isCorrect":"false"},{"answerText":"None of These","isCorrect":"false"}]
  },
  {
-      "questionText":"Select Pakistan from options?",
+      "questionText":"What is Babel?",
       "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
- },
- {
-      "questionText":"Select Pakistan from options?",
-      "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
- },
- {
-      "questionText":"Select Pakistan from options?",
-      "questionNumber":"1",
-      "answerOptions":[{"answerText":"Iraq","isCorrect":"false"},{"answerText":"India","isCorrect":"false"},{"answerText":"Delhi","isCorrect":"false"},{"answerText":"Pakistan","isCorrect":"true"}]
+      "answerOptions":[{"answerText":"A transpiler.","isCorrect":"false"},{"answerText":"An interpreter","isCorrect":"false"},{"answerText":"A Compiler","isCorrect":"false"},{"answerText":"Both Compiler and Transpilar","isCorrect":"true"}]
  }
 ]
